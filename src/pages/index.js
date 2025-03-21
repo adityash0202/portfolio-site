@@ -55,7 +55,7 @@ export default function Home() {
       >
         <h1 className="text-6xl font-bold text-blue-400">Aditya Sharma</h1>
         <p className="text-lg mt-4 text-gray-300 max-w-2xl mx-auto">
-          I'm a Data Engineer with expertise in building scalable ETL pipelines and optimizing big data workflows using Databricks Lakehouse, Apache Spark, and SQL. Passionate about transforming complex datasets into actionable insights with tools like PySpark, Airflow, and Tableau.
+          I am a Data Engineer with expertise in building scalable ETL pipelines and optimizing big data workflows using Databricks Lakehouse, Apache Spark, and SQL. Passionate about transforming complex datasets into actionable insights with tools like PySpark, Airflow, and Tableau.
         </p>
         <a
           href="/Aditya_Sharma_DE_Spark_SQL.pdf"
