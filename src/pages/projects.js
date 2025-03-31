@@ -4,6 +4,13 @@ import Link from "next/link";
 
 const projects = [
   {
+    title: "Bank Marketing Campaign Optimization",
+    description:
+      "Built a full-stack ML and BI solution to optimize term deposit marketing. Trained a GBT model (AUC = 0.864) using Databricks, and created an interactive Power BI dashboard with dynamic conversion funnels and role-based targeting.",
+    tools: "Databricks, PySpark, MLlib, Power BI, DAX, Medallion Architecture",
+    github: "https://github.com/adityash0202/bank-marketing-ml-project",
+  },
+  {
     title: "Data Driven Customer Segmentation and Game Recommendations",
     description:
       "Developed an ETL pipeline for web scraping and storing gaming data, achieving 89% recommendation accuracy and 40% improved student engagement.",

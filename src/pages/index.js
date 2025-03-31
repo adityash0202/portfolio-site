@@ -6,6 +6,14 @@ import { SiDatabricks, SiApacheairflow, SiApachespark, SiMysql } from "react-ico
 
 const projects = [
   {
+    title: "Bank Marketing Campaign Optimization",
+    description:
+      "Built a Databricks ML pipeline + Power BI dashboard to boost deposit conversions. Model AUC = 0.864, with dynamic funnel visualization and lead segmentation.",
+    tools: "Databricks, PySpark, MLlib, Power BI",
+    link: "/projects",  // takes user to full projects listing
+    github: "https://github.com/adityash0202/bank-marketing-ml-project",
+  },
+  {
     title: "Data Driven Customer Segmentation and Game Recommendations",
     description:
       "Developed an ETL pipeline for web scraping and storing gaming data, achieving 89% recommendation accuracy and 40% improved student engagement.",
