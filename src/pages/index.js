@@ -16,7 +16,7 @@ const projects = [
   {
     title: "Data Driven Customer Segmentation and Game Recommendations",
     description:
-      "Developed an ETL pipeline for web scraping and storing gaming data, achieving 89% recommendation accuracy and 40% improved student engagement.",
+      "Built a content-based recommendation engine for ~8,000 Nintendo Switch games using NLP and clustering, helping optimize recommendations and purchasing decisions for SFU gaming societies.",
     tools: "BigQuery, SQL, PCA, scikit-learn, Tableau, Python",
     link: "/projects",
     github: "https://github.com/adityash0202/game-recommendation",
